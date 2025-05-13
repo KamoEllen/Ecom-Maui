@@ -13,10 +13,15 @@ It's a simple e-commerce application with just two screens:
 - Home page showing products
 - Product detail page
 
-I've included a demo video showing the app's functionality:
-![Watch Demo Video](https://github.com/KamoEllen/Ecom-Maui/blob/main/readme%20files/video.gif)
+I've included a demo of the app's functionality:
+
+![App Demo](https://github.com/KamoEllen/Ecom-Maui/blob/main/readme%20files/video.gif)
 
 ## Technical Implementation
+
+### Architecture
+- **MVVM Pattern**: Using Model-View-ViewModel architecture for clean separation of concerns
+- Data binding for connecting UI elements with ViewModels
 
 ### Technologies
 - **.NET MAUI**: Cross-platform UI framework
@@ -54,7 +59,9 @@ Ecom-Maui/
 ## Learning Outcomes
 
 This project helped me:
-- Improve my skills with .NET MAUI and MVVM architecture (Model-View-ViewModel) 
+- Improve my skills with .NET MAUI and MVVM architecture (Model-View-ViewModel)
 - Practice translating Figma designs into functional code
 - Understand navigation between pages in MAUI
 - Implement responsive layouts for product displays
+- Apply data binding between Views and ViewModels
+
