@@ -1,6 +1,6 @@
 # E-commerce Mobile App - MAUI
 
-![E-commerce App Screenshot](https://github.com/KamoEllen/Ecom-Maui/blob/main/image.png)
+![E-commerce App Screenshot](https://github.com/KamoEllen/Ecom-Maui/blob/main/readme%20files/image.png)
 
 ## My Journey
 
@@ -14,7 +14,7 @@ It's a simple e-commerce application with just two screens:
 - Product detail page
 
 I've included a demo video showing the app's functionality:
-[Watch Demo Video](https://github.com/KamoEllen/Ecom-Maui/blob/main/video.mp4)
+[Watch Demo Video](https://github.com/KamoEllen/Ecom-Maui/blob/main/readme%20files/video.gif)
 
 ## Technical Implementation
 
